@@ -1,7 +1,7 @@
 # Fatima-Celeste
 Repositorio Personal...
-<h1 aling="center"> ✌🏼¡Hola, soy Faty! </h1>
-<h3 aling="center">Soy una estudiante de Ingeniería de Software y proximamente ux/ui designer</h3>
+<h1 align="center">✌🏼¡Hola, soy Faty! </h1>
+<h3 align="center">Soy una estudiante de Ingeniería de Software y proximamente ux/ui designer</h3>
 
 ---
 
