@@ -40,5 +40,5 @@ Actualmente estoy buscando mi primera oportunidad para aplicar mis habilidades e
 - `Funcionalidad 2a`: descripción de la funcionalidade 2a relacionada con la funcionalidad 2
 - `Funcionalidad 3`: descripción de la funcionalidad 3
 
-[<img src="https://github.com/user-attachments/assets/1dfea913-f74e-4375-81e0-276198310ad5" width=115><br><sub>Fátima Celeste Riestra</sub>](https://www.linkedin.com/in/celeste-riestra-/)
+<img src="https://github.com/user-attachments/assets/1dfea913-f74e-4375-81e0-276198310ad5" width=115><br><sub><a href="https://www.linkedin.com/in/celeste-riestra-/" target="_blank" style="text-decoration: none;">Fátima Celeste Riestra</sub>
 
